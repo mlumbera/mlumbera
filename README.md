@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mlumbera
 - 👀 I’m interested in music, coding, creating, and learning
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Machine Learning tools.
 - 💞️ I’m looking to collaborate on projects in software development or machine learning.
 - 📫 How to reach me email: mlumbera@purdue.edu
 
